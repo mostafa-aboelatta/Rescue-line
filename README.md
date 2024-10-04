@@ -45,6 +45,7 @@ The integration of hardware components is crucial for the robot's functionality:
 
 ## 5. Testing and Validation
 
+https://github.com/user-attachments/assets/9003ac60-61e7-4aec-8fd9-16088858dda5
 
 ## 6. Conclusion
 The Rescue Line Following Robot successfully combines hardware and software to navigate autonomously, following a path while avoiding obstacles. This project showcases the application of robotics principles and sensor integration, providing a solid foundation for further enhancements and exploration in robotics.
